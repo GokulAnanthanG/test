@@ -1,2 +1,2 @@
-console.log("hello A B")
-console.log("new log added");
+console.log("hello B")
+console.log("log added from B")
